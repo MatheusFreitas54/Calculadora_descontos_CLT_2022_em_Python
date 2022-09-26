@@ -1,4 +1,4 @@
-# Calculo-de-descontos-sobre-o-sal-rio-bruto---2022
+# Calculo de descontos sobre o salario bruto | CLT - 2022
 #Calculadora automático dos descontos sobre o seu salário bruto
 br = ''
 print(br)
